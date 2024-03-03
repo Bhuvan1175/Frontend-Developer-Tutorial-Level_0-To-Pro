@@ -1,0 +1,14 @@
+h1{
+    color: red;
+}
+/* Add color red to heading 1 in hrml file */
+#firstId{
+    color: yellow;
+    font-weight: bold;
+}
+.firstClass{
+    color:tomato;
+}
+#first,#second{
+    color: blue;
+}

@@ -1,0 +1,13 @@
+.box {
+  height: 40px;
+  width: 40px;
+}
+#box1 {
+  background-color: violet;
+}
+#box2 {
+  background-color: aquamarine;
+}
+#box3 {
+  background-color: lightcoral;
+}
